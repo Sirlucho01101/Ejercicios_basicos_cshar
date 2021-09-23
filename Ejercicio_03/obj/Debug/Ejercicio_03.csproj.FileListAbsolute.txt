@@ -1,0 +1,7 @@
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_03\bin\Debug\Ejercicio_03.exe.config
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_03\bin\Debug\Ejercicio_03.exe
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_03\bin\Debug\Ejercicio_03.pdb
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.CoreCompileInputs.cache
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_03\obj\Debug\Ejercicio_03.exe
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_03\obj\Debug\Ejercicio_03.pdb
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_03\obj\Debug\Ejercicio_03.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_40\bin\Debug\Ejercicio_40.exe.config
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_40\bin\Debug\Ejercicio_40.exe
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_40\bin\Debug\Ejercicio_40.pdb
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_40\obj\Debug\Ejercicio_40.csproj.AssemblyReference.cache
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_40\obj\Debug\Ejercicio_40.csproj.CoreCompileInputs.cache
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_40\obj\Debug\Ejercicio_40.exe
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_40\obj\Debug\Ejercicio_40.pdb

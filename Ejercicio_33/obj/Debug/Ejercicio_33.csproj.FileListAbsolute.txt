@@ -1,0 +1,7 @@
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_33\bin\Debug\Ejercicio_33.exe.config
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_33\bin\Debug\Ejercicio_33.exe
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_33\bin\Debug\Ejercicio_33.pdb
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_33\obj\Debug\Ejercicio_33.csproj.AssemblyReference.cache
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_33\obj\Debug\Ejercicio_33.csproj.CoreCompileInputs.cache
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_33\obj\Debug\Ejercicio_33.exe
+D:\Documentos\proyectos vs_enterteiment\Ejercicios_algoritmia\Ejercicio_33\obj\Debug\Ejercicio_33.pdb
